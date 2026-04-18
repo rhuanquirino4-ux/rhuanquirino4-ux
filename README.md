@@ -5,7 +5,7 @@ Technical proficiency in developing secure systems and data management.
 
 ### Technical Stack
 
-- **Languages:** JavaScript, C++, Python, SQL
+- **Languages:** JavaScript, C++,C , Python, SQL
 - **Web Technologies:** HTML5, CSS3
 - **Focus:** Secure Coding, System Integrity
 
