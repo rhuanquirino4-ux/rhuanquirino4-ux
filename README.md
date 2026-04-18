@@ -1,16 +1,19 @@
-# Rhuan Martins | 14 Years Old
-**Cybersecurity Developer**
+# Rhuan Martins
+**Cybersecurity Developer & Penetration Tester**
 
-Technical proficiency in developing secure systems and data management.
+I am a 14-year-old developer focused on secure software development and offensive security. I have technical proficiency in infrastructure penetration testing, web applications, and automation.
 
 ### Technical Stack
 
-- **Languages:** JavaScript, C++,C , Python, SQL
-- **Web Technologies:** HTML5, CSS3
-- **Focus:** Secure Coding, System Integrity
+- **Languages:** Python (Automation), C/C++, JavaScript, SQL
+- **Web Technologies:** HTML5, CSS3, Web Security (OWASP Top 10)
+- **Security & Ops:** Pentest (Infra & Web), Linux (Bash), Docker, Networking
 
- ### Certifications
- 
+### Expertise
+- **Offensive:** Infrastructure Pentest, Web Hacking, Reconnaissance
+- **Development:** Secure Coding, System Integrity, Scripting
+
+### Certifications
 - **SYCP** - Security Certified Professional
 - **SYAP** - Security Analyst Professional
 
