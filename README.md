@@ -7,6 +7,9 @@ Technical proficiency in developing secure systems and data management.
 - **Web Technologies:** HTML5, CSS3
 - **Focus:** Secure Coding, System Integrity
 
+- **SYCP** - Security Certified Professional
+- **SYAP** - Security Analyst Professional
+
 ### Contact Information
 - **Email:** rhuanquirino4@gmail.com
 - **Phone:** +55 35 99724-5028
