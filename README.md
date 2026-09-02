@@ -6,7 +6,7 @@ I am a 14-year-old developer focused on secure software development and offensiv
 ### Technical Stack
 
 - **Languages:** Python (Automation), C/C++, JavaScript, SQL
-- **Web Technologies:** HTML5, CSS3, Web Security Fundamentals
+- **Web Technologies:** HTML5, CSS3, Web Security
 - **Security & Ops:** Pentest (Infra, Web, Mobile & Cloud), Linux (Bash), Docker, Networking
 
 ### Expertise
